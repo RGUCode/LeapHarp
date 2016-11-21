@@ -1,0 +1,42 @@
+{
+  "name": "pizzicato",
+  "description": "A web audio library to simplify the usage and manipulation of sounds.",
+  "homepage": "http://alemangui.github.io/pizzicato/",
+  "authors": [
+    {
+      "name": "Alejandro Mantecon Guillen",
+      "email": "alemangui@gmail.com",
+      "homepage": "http://alemangui.github.io"
+    }
+  ],
+  "main": "distr/pizzicato.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alemangui/pizzicato.git"
+  },
+  "license": "MIT",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "audio",
+    "webaudio",
+    "sound",
+    "effects"
+  ],
+  "ignore": [
+    "node_modules",
+    "site"
+  ],
+  "version": "0.4.0",
+  "_release": "0.4.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.4.0",
+    "commit": "9f8734e183da8ae7cb586901907458fa25a4b204"
+  },
+  "_source": "https://github.com/alemangui/pizzicato.git",
+  "_target": "^0.4.0",
+  "_originalSource": "pizzicato",
+  "_direct": true
+}

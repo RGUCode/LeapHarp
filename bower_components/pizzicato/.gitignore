@@ -1,0 +1,4 @@
+node_modules
+logos
+*.sublime-project
+*.sublime-workspace
